@@ -1,5 +1,5 @@
 {
-  "name": "안드로이드",
+  "name": "모바일테스트프로젝트2",
   "description": "모바일 테스트 프로젝트",
   "main": "",
   "dependencies": {
@@ -55,6 +55,24 @@
         "testCaseId": "5498f1d5-43f9-4d61-b431-b2729ab84b69",
         "testCaseType": "TestCase",
         "fileName": "카카오.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8019935f-7778-4721-924d-114d2da2fccd",
+        "testCaseType": "TestCase",
+        "fileName": "망연동.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "8f23ef00-2134-47f4-ab3d-b030b032beb8",
+        "testCaseType": "TestCase",
+        "fileName": "망연동 테스트.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "259ac11e-4333-43cd-9cf9-08f234130577",
+        "testCaseType": "TestCase",
+        "fileName": "망연동 테스트2.xaml"
       }
     ],
     "modernBehavior": true

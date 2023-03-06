@@ -12,7 +12,7 @@
       "SingleInstance": null,
       "WaitForPageUpdate": true,
       "Capabilities": {
-        "appium:udid": "192.168.174.233:5555"
+        "appium:udid": "192.168.174.59:5555"
       },
       "GeoLocation": null,
       "LoggingModel": {
